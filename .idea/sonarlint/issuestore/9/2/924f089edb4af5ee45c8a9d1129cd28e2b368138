@@ -1,0 +1,17 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(“¿—8ä¾ØòÊ,
+[
+squid:S106)"9Replace this use of System.out or System.err by a logger.(êš´ıÿÿÿÿ8Ê€‡óÊ,
+psquid:S00117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Ëâ½8ä¾ØòÊ,
+[
+squid:S106("9Replace this use of System.out or System.err by a logger.(ÃÃ«ìıÿÿÿÿ8Ê€‡óÊ,
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ş™‚ûûÿÿÿÿ8ßƒõòÊ,
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ä¾ØòÊ,
+dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ä¾ØòÊ,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(€Ä²Ê8ä¾ØòÊ,
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ß”Ña8ä¾ØòÊ,
+8squid:S1220""Move this file to a named package.8ä¾ØòÊ,
